@@ -1,0 +1,13 @@
+# Generated sources
+*.gen.h
+*.gen.cpp
+
+# Build output
+*.o
+*.obj
+
+# Vita binaries
+*.vpk
+
+# IntelliJ Editors
+.idea/
